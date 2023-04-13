@@ -17,7 +17,7 @@ Brian -- https://github.com/briangenet/Genet-Final-Project : [![Binder](https://
 
 Jeremy -- jeremy-larkin  https://github.com/jeremy-larkin/ESCI796-Final-Project
 
-Kaylee -- 
+Kaylee -- kayleemolan https://github.com/kayleemolan/ESCI-796-Project [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kayleemolan/ESCI-796-Project/HEAD)
 
 Kevin -- 
 
