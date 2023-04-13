@@ -11,7 +11,7 @@ Michael -- mbidonde19 https://github.com/mbidonde19/ESCI-796 : [![Binder](https:
 
 Gavin -- https://github.com/gd1080/Project : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gd1080/Project/HEAD)
 
-Andrew -- https://github.com/andrewflem/Final-Project-CO-snow-and-droughts:https://mybinder.org/v2/gh/andrewflem/Final-Project-CO-snow-and-droughts/HEAD
+Andrew -- https://github.com/andrewflem/Final-Project-CO-snow-and-droughts:https :  [![Binder](https://mybinder.org/v2/gh/andrewflem/Final-Project-CO-snow-and-droughts/HEAD)
 
 Brian -- https://github.com/briangenet/Genet-Final-Project
 
