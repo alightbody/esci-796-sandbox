@@ -13,7 +13,7 @@ Gavin -- https://github.com/gd1080/Project : [![Binder](https://mybinder.org/bad
 
 Andrew -- https://github.com/andrewflem/Final-Project-CO-snow-and-droughts : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andrewflem/Final-Project-CO-snow-and-droughts/HEAD)
 
-Brian -- https://github.com/briangenet/Genet-Final-Project
+Brian -- https://github.com/briangenet/Genet-Final-Project : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/briangenet/Genet-Final-Project/HEAD)
 
 Jeremy -- jeremy-larkin  https://github.com/jeremy-larkin/ESCI796-Final-Project
 
