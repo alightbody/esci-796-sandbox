@@ -15,7 +15,7 @@ Andrew -- https://github.com/andrewflem/Final-Project-CO-snow-and-droughts : [![
 
 Brian -- https://github.com/briangenet/Genet-Final-Project : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/briangenet/Genet-Final-Project/HEAD)
 
-Jeremy -- jeremy-larkin  https://github.com/jeremy-larkin/ESCI796-Final-Project
+Jeremy -- jeremy-larkin  https://github.com/jeremy-larkin/ESCI796-Final-Project https://mybinder.org/v2/gh/jeremy-larkin/ESCI796-Final-Project/HEAD
 
 Kaylee -- kayleemolan https://github.com/kayleemolan/ESCI-796-Project [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kayleemolan/ESCI-796-Project/HEAD)
 
