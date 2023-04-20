@@ -30,6 +30,6 @@ Nora -- nksinno https://github.com/nksinno/Project [![Binder](https://mybinder.o
 
 Jon-Erik -- jetrygg https://github.com/jetrygg/ESCI896_Project
 
-Noah -- nw1012 https://github.com/nw1012/esci796_project
+Noah -- nw1012 https://github.com/nw1012/esci796_project: [![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke2.mybinder.org/user/nw1012-esci796_project-wobi6bs2/lab)
 
 Johnny -- 
