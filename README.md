@@ -26,7 +26,7 @@ Nick -- nquerrazzi https://github.com/nquerrazzi/ESCI796finalproject  [![Binder]
 
 Madison --mmquill https://github.com/mmquill/Hydrodataanalysis [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mmquill/Hydrodataanalysis/HEAD)
 
-Nora -- nksinno https://github.com/nksinno/Project
+Nora -- nksinno https://github.com/nksinno/Project [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nksinno/Project/HEAD)
 
 Jon-Erik -- jetrygg https://github.com/jetrygg/ESCI896_Project
 
