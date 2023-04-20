@@ -5,7 +5,8 @@ Binder associated with the current repo: [![Binder](https://mybinder.org/badge_l
 
 Enter your Git user name, URL, and Binder badge here:
 
-Kush -- https://github.com/kb1190/kushbasnet.git
+Kush -- https://github.com/kb1190/kushbasnet.git [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kb1190/kushbasnet/HEAD)
+
 
 Michael -- mbidonde19 https://github.com/mbidonde19/ESCI-796 : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mbidonde19/ESCI-796/HEAD)
 
