@@ -1,9 +1,9 @@
 # esci-796-sandbox
-Sandbox for ESCI 7/896.02 to collaborate
+Sandbox for UNH course ESCI 7/896.02 to collaborate during Spring 2023
 
 Binder associated with the current repo: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alightbody/esci-796-sandbox/HEAD)
 
-Enter your Git user name, URL, and Binder badge here:
+Enter your Git user name, GIR repo URL, and Binder badge here:
 
 Kush -- https://github.com/kb1190/kushbasnet.git [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kb1190/kushbasnet/HEAD)
 
