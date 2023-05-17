@@ -1,8 +1,8 @@
-name: seasonalflow
+name: seasonality
 dependencies:
   - numpy
   - matplotlib
   - pandas
-
+  - statistics
 
 
