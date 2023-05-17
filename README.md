@@ -1,5 +1,5 @@
 # esci-796-sandbox
-Sandbox for UNH course ESCI 7/896.02 for Spring 2023
+Sandbox for UNH course ESCI 7/896.02 to collaborate during Spring 2023
 
 Binder associated with the current repo: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alightbody/esci-796-sandbox/HEAD)
 
