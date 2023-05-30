@@ -15,13 +15,9 @@ Gavin -- https://github.com/gd1080/Project [![Binder](https://mybinder.org/badge
 
 Jeremy -- https://github.com/jeremy-larkin/ESCI796-Final-Project [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jeremy-larkin/ESCI796-Final-Project/HEAD)
 
-Johnny -- 
-
-Jon-Erik -- https://github.com/jetrygg/ESCI896_Project
+Jon-Erik -- https://github.com/jetrygg/ESCI896_Project [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jetrygg/ESCI896_Project/HEAD)
 
 Kaylee -- https://github.com/kayleemolan/ESCI-796-Project [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kayleemolan/ESCI-796-Project/HEAD)
-
-Kevin -- 
 
 Kush -- https://github.com/kb1190/kushbasnet.git [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kb1190/kushbasnet/HEAD)
 
